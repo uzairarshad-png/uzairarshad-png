@@ -7,9 +7,9 @@
 
 ## About Me
 
-I'm a first-year IT student with a strong focus on building real, functional software from day one. My work spans object-oriented systems, database-backed desktop applications, and logic-heavy academic projects. I believe in writing clean, well-structured code — and I take that seriously even at the student level.
+I'm a second-year IT student with a strong focus on building real, functional software from day one. My work spans object-oriented systems, database-backed desktop applications, and logic-heavy academic projects. I believe in writing clean, well-structured code — and I take that seriously even at the student level.
 
-Outside of coding, I represent my university in **Model United Nations** competitions and actively participate in **competitive programming**. I approach both with the same mindset: preparation, precision, and the ability to think under pressure.
+Outside of coding, I represented my college in **Model United Nations** competitions, and I am actively participating in **competitive programming**, **Vibe Coding** and **Other Technical Projects** throughout the University & proefessional life. I approach both with the same mindset: preparation, precision, and the ability to think under pressure.
 
 Currently building toward a career in **Artificial Intelligence & Machine Learning**, with a foundation rooted in strong programming fundamentals.
 
@@ -27,7 +27,7 @@ Currently building toward a career in **Artificial Intelligence & Machine Learni
 
 - Java (OOP, JavaFX, JDBC, design patterns)
 - Data Structures & Algorithms with C++
-- Digital Logic Design & computer architecture fundamentals
+- Digital Logic Design & Computer Architecture Fundamentals
 - Probability & Statistics for Machine Learning foundations
 - Web Development (HTML, CSS, JavaScript)
 - Artificial Intelligence fundamentals
